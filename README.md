@@ -35,6 +35,8 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 4. Apply for Leave
 5. Send Feedback to HOD
 
+### Translated to Vietnamese (NEW)
+We have translated the system into Vietnamese (90%)
 
 ## Support Developer
 1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
@@ -158,7 +160,14 @@ Password: student
 
 
 
-## For Sponsor or Projects Enquiry
+## Thanks vijaythapa
 1. Email - hi@vijaythapa.com
 2. LinkedIn - [vijaythapa](https://www.linkedin.com/in/vijaythapa "Vijay Thapa on LinkedIn")
+
+## Dự án đã được chỉnh sửa bởi Nhóm 1
+Phạm Anh Tuấn (2121050439) (C)
+Nguyễn Hồ Việt Anh (2121050383)
+Trần Đức Mạnh (2121050332) 
+Nguyễn Minh Tiến (2121050346) 
+Vũ Hà Huy Tuấn (2121050405) 
 
